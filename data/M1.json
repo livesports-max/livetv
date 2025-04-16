@@ -1,49 +1,49 @@
 [
  {
-  "Team1": "PBKS",
-  "Team2": "KKR",
-  "logo": "https://denverisalive.github.io/SportsLovers/sports_icon.jpg"
+  "Team1": "RR",
+  "Team2": "DC",
+  "logo": "https://img10.hotstar.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6791/1744713576791-h"
   },
   {
     "id": "HIN",
     "name": "HINDI",
-    "logo": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/485/1744644510485-i.png",
-    "link": "https://wikihznew.newkso.ru/wikihz/wikicric1/mono.m3u8",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6791/1744713576791-h",
+    "link": "https://cors-anywhere.ammoapps.com/https://tv.bdixtv24.co/sports/m3u8.php/willowextra.m3u8",
     "userAgent": "Denver1769"
   },
   {
     "id": "ENG",
     "name": "ENGLISH",
-    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/485/1744644510485-i.png",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=ENG&m=M1",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6791/1744713576791-h",
+    "link": "https://wikihznew.newkso.ru/wikihz/wikicric1/mono.m3u8",
     "userAgent": "Denver1769"
   },
   {
-    "id": "Bhoj",
-    "name": "BHOJPURI",
-    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/485/1744644510485-i.png",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=Bhoj&m=M1",
+    "id": "AD-FREE",
+    "name": "AD-FREE",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6791/1744713576791-h",
+    "link": "https://news.bajimath.com/Candy_Live/vstream.m3u8?id=e666b0d2a3ec&e=.m3u8",
     "userAgent": "Denver1769"
   },
   {
     "id": "TAM",
     "name": "TAMIL",
-    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/485/1744644510485-i.png",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=TAM&m=M1",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6791/1744713576791-h",
+    "link": "https://004.fclplayer.net/live/csstream3/chunklist.m3u8?vidictid=201941894025&id=1003&pk=93a880fb796d48adff9d581633b7d80f65fcd94fcc117a18b8923c71543e7c9c",
     "userAgent": "Denver1769"
   },
   {
     "id": "KAN",
     "name": "KANNADA",
-    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/485/1744644510485-i.png",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=KAN&m=M1",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6791/1744713576791-h",
+    "link": "https://004.fclplayer.net/live/csstream5/chunklist.m3u8?vidictid=201942729390&id=1005&pk=93a880fb796d48adff9d581633b7d80f65fcd94fcc117a18b8923c71543e7c9c",
     "userAgent": "Denver1769"
   },
   {
-    "id": "Guj",
-    "name": "GUJARATI",
-    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/485/1744644510485-i.png",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=Guj&m=M1",
+    "id": "star-eng",
+    "name": "ENGLISH",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6791/1744713576791-h",
+    "link": "https://www.tbn24.com/api/video/4028_0.m3u8",
     "userAgent": "Denver1769"
   },
   {
@@ -88,55 +88,14 @@
     "link": "https://game.denver1769.fun/Js25/play.m3u8?id=HAR&m=M1",
     "userAgent": "Denver1769"
   },
-  {
-    "id": "CAM06",
-    "name": "Hero Cam",
-    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/485/1744644510485-i.png",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=CAM06&m=M1",
-    "userAgent": "Denver1769"
-  },
-  {
-    "id": "CAM01",
-    "name": "Batting Cam",
-    "logo": "https://v3img.voot.com//v3Storage/assets/batter_camera_odi_ipl-1710764894788.jpg",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=CAM01&m=M1",
-    "userAgent": "Denver1769"
-  },
-  {
-    "id": "CAM02",
-    "name": "Bowling Cam",
-    "logo": "https://v3img.voot.com/resizeLow,w_160,h_90/jioimage/15/1/74f3c8c0d16111ed86430dc8f316967d_1680445202266_l.jpg",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=CAM02&m=M1",
-    "userAgent": "Denver1769"
-  },
-  {
-    "id": "CAM05",
-    "name": "Multi Cam",
-    "logo": "https://v3img.voot.com//v3Storage/assets/multiview_cam_new_odi_ipl-1711085679948.jpg",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=CAM05&m=M1",
-    "userAgent": "Denver1769"
-  },
-  {
-    "id": "CAM03",
-    "name": "Stump Cam",
-    "logo": "https://v3img.voot.com//v3Storage/assets/stump_camera_odi_ipl-1710844278325.jpg",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=CAM03&m=M1",
-    "userAgent": "Denver1769"
-  },
-  {
-    "id": "CAM04",
-    "name": "Spider Cam",
-    "logo": "https://v3img.voot.com//v3Storage/assets/bird_s_eye_camera_odi_ipl-1710765267588.jpg",
-    "link": "https://game.denver1769.fun/Js25/play.m3u8?id=CAM04&m=M1",
-    "userAgent": "Denver1769"
-  },
+
   {
     "id": "willow-1",
     "name": "Willow 1",
     "logo": "https://cricket.willow.tv/_nuxt/img/willow_2_blue_logo.fa6b253.png",
-    "link": "https://a142aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/7cqoldwqqa/out/v1/e57ae5ce43324d0b83a30562494b2968/cenc.mpd",
+    "link": "https://ABGQJFUAAAAAAAAMAGMNW3PEHGUEX.cf3a3b91f7a2490193568961bdbe7b6f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhc1i3o89r/out/v1/cfb494be02bb42d88d9a5da4d7454280/cenc.mpd",
     "drmScheme": "clearkey",
-    "drmLicense": "b141d846a4f4d51663031be887e0988c:bb105cb4d42d76a9ba10e3c01109fa58"
+    "drmLicense": "bc1234c952a55a08b1a1997de4ab252c:32f9d6805671929265a15f47dbae0f9b"
   },
   {
     "id": "willow-2",
