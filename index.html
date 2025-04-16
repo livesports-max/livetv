@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Channel Streamer</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
+    <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Live Sports Channels</h1>
+    </header>
+    <main>
+        <video id="video-player" class="video-js vjs-default-skin" controls preload="auto" width="640" height="360">
+            <source src="" type="application/x-mpegURL">
+        </video>
+        <div id="channel-list"></div>
+    </main>
+    <script src="scripts/loadChannels.js"></script>
+</body>
+</html>
